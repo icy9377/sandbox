@@ -1,3 +1,6 @@
+//-----Dijkstra--------
+
+
 function createGraphByList(num, edges) {
     // 연결 리스트로 그래프 구현
     // 정확하게 연결 리스트는 아니지만,
